@@ -24,4 +24,4 @@ Automatyczny skrypt w języku Bash konfigurujący dedykowaną rolę, użytkownik
 Pobierz i uruchom skrypt bezpośrednio na węźle Proxmox VE:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/TWOJ_NICK/proxmox-ha-api-setup/main/setup-proxmox-ha.sh](https://raw.githubusercontent.com/TWOJ_NICK/proxmox-ha-api-setup/main/setup-proxmox-ha.sh) | bash
+curl -sSL [https://raw.githubusercontent.com/eWuPi/proxmox-ha-api-setup/main/setup-proxmox-ha.sh](https://raw.githubusercontent.com/eWuPi/proxmox-ha-api-setup/main/setup-proxmox-ha.sh) | bash
